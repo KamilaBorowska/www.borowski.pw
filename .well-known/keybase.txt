@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/borowski
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://borowski.pw
+  * I am borowski (https://keybase.io/borowski) on keybase.
+  * I have a public key with fingerprint E540 2FAF 20B4 39B7 ED35  8774 710B B848 FE46 266F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01017dce2566bc3a1348f7a9ed6fc5dbe8c8419883c7692ec7ae41da1bcf0a2cba3b0a",
+      "fingerprint": "e5402faf20b439b7ed358774710bb848fe46266f",
+      "host": "keybase.io",
+      "key_id": "710bb848fe46266f",
+      "kid": "01017dce2566bc3a1348f7a9ed6fc5dbe8c8419883c7692ec7ae41da1bcf0a2cba3b0a",
+      "uid": "d6b21d9daafb3ff8964986079300e719",
+      "username": "borowski"
+    },
+    "service": {
+      "hostname": "borowski.pw",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1507897934,
+  "expire_in": 157680000,
+  "prev": "a524c756b0607ca6804d17e4bd88eae57c42b38656f4c950517e0a31bc0ed206",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJNSFRRFB51rLSUohZai+rSUNQg9/3e90bKCPqxtJAGTJoa7n3vvvE1
+9d4476kjov1QlFCgWJGGSUVZIC3CRYuUDKnEyoWKFUEtin50U5smkuw+qU207G4O
+95zv+853DmcoL8uXm7G9pLt95HT+jYyRwYu1vqq3d3c3AmLrDSDUCOJ0LtDDOnXc
+aNzUQQhADnJI1ygvyTLRBMwJomIgrFJdNjRJJ1TRFJFTFUXQkKzyVEOYipyOOaIZ
+EPMawQKBGASBYVoxmkwkTctlslQSIW9gg4dEFFSCqC5ICkIi4iAhCmtBRZmXZYMR
+q23HYzBzBDu0yLRZjn2ic/b+gf/Pvmvn5HSZ8Jyu6hgbRDAMRZVFVZEhUgUIKeJU
+D+jQpIWPUIYmdtKud+ImaAoClq0zNeot1pvkL0RRop5RE0nbtTX7MCtUu27CCXlE
+tyHhIespif7WiBLT0tkaGaOOJh3TtkCIY0jNNT1RToJIUZklMQhoKmEmadT0EBKS
+Fcie14fWMUks8aKGJJlANoGGWVXUOURFoisKxVRCmsgTQZEl2RA1VYISK0IssNVA
+qvNQBt5UNZYNQgKziWNM0jFjFnZrkxQ0PXwQ8fsycn3zsjO98/Ll5iz+c3TdG+bP
+OpVTC67MmKVrU+74ID3/6eTO3gjYO3mutXy0zf/9TVFwoiC+bsu7CWH9yNUXkeFA
+SdbshYFlOeGbTz9+G2r7WdllNC8aXbFZuLtkR0v2WVA+Nbx8APWNtV23K07tuno8
+vD+yJ5AuCOe3pQM/5K702Hu7oKgi9fJxzcpjZV1l0/0xf2v/6p57y5F/VOy89Yb0
+HrhS407ef7551eqDKZx+tmJhzI02otJQ4bXvWZ9PbLTSH8y82wNVHVzHt77q4plX
+xb1nfjxZ0z/bX1X6bkO+ZH6NFBcu/dp5dKxgGARer9106VAw4G4b64H25a3FX6Zb
+2iOp8Tv7HjVnTk+FrdwPvwChrkH8
+=6joc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/borowski
+
+==================================================================
