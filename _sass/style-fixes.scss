@@ -7,11 +7,11 @@
     color: $brand-color;
 }
 
-a {
+a, a .username {
     // I prefer links you can tell are actually links
     text-decoration: underline;
 }
 
-.site-header .site-title, .icon {
+.site-header .site-title, .social-media-list a {
     text-decoration: none;
 }
