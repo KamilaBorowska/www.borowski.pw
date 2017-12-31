@@ -1,0 +1,17 @@
+.site-header {
+    background: #dd6;
+    box-shadow: 0 -5px 2px rgba(0, 0, 0, 0.1) inset;
+}
+
+.site-nav .page-link {
+    color: $brand-color;
+}
+
+a {
+    // I prefer links you can tell are actually links
+    text-decoration: underline;
+}
+
+.site-header .site-title {
+    text-decoration: none;
+}
